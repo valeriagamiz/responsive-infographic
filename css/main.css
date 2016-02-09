@@ -62,8 +62,12 @@ style{
   transform: translate(10px, 8px);
 }
 
-.petsowninmillions{
-  margin:0
-  padding:10rem;
-  width: 50%;
+.intro1{
+
+}
+.intro2{
+}
+
+svg{
+  width: 100%;
 }
