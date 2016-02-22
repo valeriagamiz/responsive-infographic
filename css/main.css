@@ -46,7 +46,7 @@ svg {
 
 @keyframes dogeyes {
 
-  from { transform: translate(-1px,-2px); }
+  from { transform: translate(-1px, -2px); }
 
   to { transform: translate(-6px, -1px); }
 
@@ -66,18 +66,18 @@ svg {
   transform: translate(10px, 8px);
 }
 
-@media only screen and (min-width:25em) {
+@media only screen and (min-width: 25em) {
   .ussvg {
     height: 300px;
     margin-top: -500px;
-}
+  }
 }
 
 @media only screen and (min-width:38em) {
   .ussvg {
     height: 400px;
     margin-top: -500px;
-}
+  }
   .dogpeople {
     width: 100%;
     height: 1000px;
@@ -88,7 +88,7 @@ svg {
   .ussvg {
     height: 400px;
     margin-top: 20px;
-}
+  }
   .dogpeople {
     width: 100%;
     height: 1234px;
