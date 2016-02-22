@@ -74,7 +74,7 @@ svg {
 }
 
 @media only screen and (min-width:38em) {
-  .ussvg{
+  .ussvg {
     height: 400px;
     margin-top: -500px;
 }
@@ -85,7 +85,7 @@ svg {
 }
 
 @media only screen and ( min-width: 60em) {
-  .ussvg{
+  .ussvg {
     height: 400px;
     margin-top: 20px;
 }
