@@ -99,3 +99,42 @@ svg {
     height: 1234px;
   }
 }
+
+.st0 {
+  fill: #f7911e;
+  stroke: #00aeef;
+  stroke-miterlimit:10;
+}
+.st1 {
+  fill: #fff;
+}
+.st2 {
+  fill: #fdb943;
+}
+.st3 {
+  fill: #f9ba43;
+}
+.st4 {
+  fill: #f9b943;
+}
+.st5 {
+  fill: #be1e2d;
+}
+.st6 {
+  fill: #8e1923;
+}
+.st7 {
+fill: #e6d1c4;
+}
+.st8 {
+  fill: none;
+}
+.st9 {
+  fill: #d1d3d4;
+}
+.st10 {
+  fill: #c2b59b;
+}
+.st11 {
+  fill: #9b8579;
+}
